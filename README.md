@@ -40,7 +40,7 @@ Main problems we faced (which are further explained in the short we made):
 
 3. get.rect function 
 
-4. having the background appear behind Iggy instead of in front (since it covered Iggy and the obstacles)
+4. Having the background appear behind Iggy instead of in front (since it covered Iggy and the obstacles)
 
 We had to restart the project a couple of times mainly because we had significant glitches with the jump function. 
 Once we were able to get Iggy to jump at the speed we wanted it was much easier to continue with the coding. 
