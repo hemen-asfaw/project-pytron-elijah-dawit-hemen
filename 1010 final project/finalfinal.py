@@ -1,17 +1,17 @@
-#references 
-#The game has been made a number of times so we were able to find different guides on how to structure it.
+# references 
+# The game has been made a number of times, so we were able to find different guides on how to structure it.
 # We worked with the TA's (Aidan D. and Julian) for debugging and on how to understand the previously made codes to generate 
-# our own on lines of code.  
+# Our own on lines of code.  
 # The videos below are the ones we referenced to most 
 # Video1: https://youtu.be/hUC4cseJdBQ
 # Video2: https://youtu.be/K6mJqSnwj1g
-# Video3 :https://youtu.be/wnBGG7JLrkg 
-# link1 : https://stackoverflow.com/questions/19882415/closing-pygame-window
-# link2 : https://www.pygame.org/docs/ we referenced pygame doccs to better how pygame worked and some specific functions 
+# Video3: https://youtu.be/wnBGG7JLrkg 
+# link1: https://stackoverflow.com/questions/19882415/closing-pygame-window
+# link2: https://www.pygame.org/docs/ we referenced pygame docs to better how pygame worked and some specific functions 
 # We worked in pairs for a majority of the project. The pairs were Ruth and Hemen, Dawit and Elijah
 # Hemen and Ruth worked on building the classes, for Iggy and the Obstacles, adding sounds and details on the menu screen.    
 # Elijah and Dawit worked on the main function and the menu screen. 
-# We all ended up taking shifts debugging and editing eachothers codes with the help of the TA's. 
+# We all ended up taking shifts debugging and editing each other’s codes with the help of the TA's. 
  
  
 import pygame
