@@ -3,6 +3,8 @@ project-pytron-elijah-dawit-hemen created by GitHub Classroom
 
 Reminder: Ruth is also a part of this group 
 
+The python codes are in the folder 1010 final project 
+
 References 
 The game has been made a number of times, so we were able to find different guides on how to structure it.
 We worked with the TA's (Aidan D. and Julian) for debugging and on how to understand the previously made codes to generate 
